@@ -1,3 +1,11 @@
+# 修改为自用颜色,增加对比度,强化选中颜色体验
+
+
+
+
+
+
+
 # VSCode Chester Atom
 ---
 ### A theme based on the colors used in the [Chester Atom Syntax Theme](https://github.com/csutter/chester-atom-syntax) for Atom. Optimized for use with the Operator Mono Typeface.
