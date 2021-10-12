@@ -1,10 +1,10 @@
 {
-  "name": "vscode-chester-atom",
-  "displayName": "vscode chester atom",
+  "name": "duan-vscode-chester-atom",
+  "displayName": "duan vscode chester atom",
   "description": "A Visual Studio Code theme based on the colors used in the Chester Atom Syntax Theme. Optimized for use with the Operator Mono typeface.",
   "version": "0.1.15",
   "icon": "Images/icon.jpg",
-  "publisher": "chriseckenrode",
+  "publisher": "duanzhichao",
   "engines": {
     "vscode": "^1.6.0"
   },
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ceckenrode/vscode-chester-atom"
+    "url": "https://github.com/duanzhichao/vscode-chester-atom"
   },
   "contributes": {
     "themes": [{
